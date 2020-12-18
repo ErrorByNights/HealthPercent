@@ -1,0 +1,7 @@
+---
+name: HealthPercent
+author: ErrorByNights
+version: 1.0.0
+main: ErrorByNights\HealthPercent\Percent
+api: 3.0.0
+...
